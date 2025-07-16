@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AppiumSuite">
+    <test name="CounterAppTest">
+        <classes>
+            <class name="tests.CounterAppTest"/>
+        </classes>
+    </test>
+</suite> 
